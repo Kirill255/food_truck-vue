@@ -4,6 +4,7 @@ web-interface for [food_truck-app](https://github.com/Kirill255/food_truck-app)
 
 ### Related links
 https://habr.com/company/ruvds/blog/346784/
+
 https://github.com/gdomaradzki/focus-budget-manager
 
 ## Project setup
@@ -25,3 +26,6 @@ npm run build
 ```
 npm run lint
 ```
+
+### Deploy
+https://youtu.be/rVZo2FAjXtA
